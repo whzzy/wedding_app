@@ -10,3 +10,7 @@ class MyApp extends StatelessWidget {
     return Container(child: Text("as"));
   }
 }
+
+void test() {
+  print("Hello world");
+}
